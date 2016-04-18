@@ -1,0 +1,80 @@
+"Phrases"
+{
+	"ChatPrefix"
+	{
+		"en"			"[{green}ZR{default}] "
+	}
+	"Damage Hint Text"
+	{
+		"#format"		"{1:N},{2:d},{3:d}"
+		"en"			"<font size='20' color='#ff0000'>Zombie</font> {1}<br/><font size='30' color='#00ff00'>{2}</font> <font color='#00ff00'>-{3}</font>"
+	}
+	"Stats Menu Title"
+	{
+		"en"			"Stats"
+	}
+	"Other Player Stats Menu Title"
+	{
+		"#format"		"{1:s}"
+		"en"			"{1}'s Stats"
+	}
+	"Cant Find Player"
+	{
+		"#format"		"{1:s}"
+		"en"			"Cant find player {1}"
+	}
+	"More Then One Players"
+	{
+		"en"			"Found more then one players"
+	}
+	"Menu SteamID"
+	{
+		"#format"		"{1:s}"
+		"en"			"SteamID: {1}"
+	}
+	"Menu Damage"
+	{
+		"#format"		"{1:d}"
+		"en"			"Human Damage: {1}"
+	}
+	"Menu Infect"
+	{
+		"#format"		"{1:d}"
+		"en"			"Human Infected: {1}"
+	}
+	"Menu Win"
+	{
+		"#format"		"{1:d}"
+		"en"			"Human Win: {1}"
+	}
+	"Menu Kill"
+	{
+		"#format"		"{1:d}"
+		"en"			"Zombie Kill: {1}"
+	}
+	"Menu Country"
+	{
+		"#format"		"{1:s}"
+		"en"			"Country: {1}"
+	}
+	"Menu ToggleHud"
+	{
+		"en"			"Damage Hud: "
+	}
+	"Menu ToggleStopMusic"
+	{
+		"en"			"Stop Map Music: "
+	}
+	"Enable"
+	{
+		"en"			"Enable"
+	}
+	"Disable"
+	{
+		"en"			"Disable"
+	}
+	"Unknown"
+	{
+		"en"			"Unknown"
+	}
+}
