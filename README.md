@@ -9,6 +9,10 @@ Only tested on CSGO.
 - Sourcemod
 - Mysql
 
+## Compile requirements
+- [Zombiereloaded](https://forums.alliedmods.net/forumdisplay.php?f=132)
+- [Multicolors](https://forums.alliedmods.net/showthread.php?t=247770)
+
 ## Installation
 1. Download the archive and extract the files to the game server.
 2. Add and config the following code to ``addons\sourcemod\configs\databases.cfg``
