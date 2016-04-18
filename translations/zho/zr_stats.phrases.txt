@@ -1,0 +1,80 @@
+"Phrases"
+{
+	"ChatPrefix"
+	{
+		"zho"			"[{green}ZR{default}] "
+	}
+	"Damage Hint Text"
+	{
+		"#format"		"{1:N},{2:d},{3:d}"
+		"zho"			"<font size='20' color='#ff0000'>殭屍</font> {1}<br/><font size='30' color='#00ff00'>{2}</font> <font color='#00ff00'>-{3}</font>"
+	}
+	"Stats Menu Title"
+	{
+		"zho"			"紀錄"
+	}
+	"Other Player Stats Menu Title"
+	{
+		"#format"		"{1:s}"
+		"zho"			"{1}的紀錄"
+	}
+	"Cant Find Player"
+	{
+		"#format"		"{1:s}"
+		"zho"			"找不到玩家 {1}"
+	}
+	"More Then One Players"
+	{
+		"zho"			"找到多於一個玩家"
+	}
+	"Menu SteamID"
+	{
+		"#format"		"{1:s}"
+		"zho"			"SteamID: {1}"
+	}
+	"Menu Damage"
+	{
+		"#format"		"{1:d}"
+		"zho"			"人類傷害: {1}"
+	}
+	"Menu Infect"
+	{
+		"#format"		"{1:d}"
+		"zho"			"感染人類: {1}"
+	}
+	"Menu Win"
+	{
+		"#format"		"{1:d}"
+		"zho"			"人類勝利: {1}"
+	}
+	"Menu Kill"
+	{
+		"#format"		"{1:d}"
+		"zho"			"殭屍擊殺: {1}"
+	}
+	"Menu Country"
+	{
+		"#format"		"{1:s}"
+		"zho"			"國家: {1}"
+	}
+	"Menu ToggleHud"
+	{
+		"zho"			"傷害HUD: "
+	}
+	"Menu ToggleStopMusic"
+	{
+		"zho"			"關閉地圖音樂: "
+	}
+	"Enable"
+	{
+		"zho"			"啟用"
+	}
+	"Disable"
+	{
+		"zho"			"停用"
+	}
+	"Unknown"
+	{
+		"zho"			"未知"
+	}
+}
